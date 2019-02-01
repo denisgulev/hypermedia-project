@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "E.G. - Educational Group",
+        "description": "The organisation works on making pathways for disabled young people to become increasingly independent. Central to Ariel training and vocation units is the provision of \"real further education, skills-based training and vocational opportunities as part of a structured pathway to social and economic participation\". Through the vocational pathways Compass provides, people with a disability have successfully been placed into appropriate and rewarding work. The Compass Institute Inc. is involved in setting up social enterprises as vocational pathways for its trainees.",
+        "goals": "The goal of the Center is to provide real life skills with a focus on personal development and independent living. This includes literacy, numeracy, communication, fitness, social skills, food preparation, personal grooming, transport and community participation.<br>",
+        "locationId": 1
+    },
+    {
+        "id": 2,
+        "name": "Family and person support group",
+        "description": "The organisation works on making pathways for disabled young people to become increasingly independent. Central to Ariel training and vocation units is the provision of \"real further education, skills-based training and vocational opportunities as part of a structured pathway to social and economic participation\". Through the vocational pathways Compass provides, people with a disability have successfully been placed into appropriate and rewarding work. The Compass Institute Inc. is involved in setting up social enterprises as vocational pathways for its trainees.",
+        "goals": "The goal of the Center is to provide real life skills with a focus on personal development and independent living. This includes literacy, numeracy, communication, fitness, social skills, food preparation, personal grooming, transport and community participation.<br>",
+        "locationId": 2
+    },
+    {
+        "id": 3,
+        "name": "I.E.G. - Independency Education Group",
+        "description": "The organisation works on making pathways for disabled young people to become increasingly independent. Central to Ariel training and vocation units is the provision of \"real further education, skills-based training and vocational opportunities as part of a structured pathway to social and economic participation\". Through the vocational pathways Compass provides, people with a disability have successfully been placed into appropriate and rewarding work. The Compass Institute Inc. is involved in setting up social enterprises as vocational pathways for its trainees.",
+        "goals": "The goal of the Center is to provide real life skills with a focus on personal development and independent living. This includes literacy, numeracy, communication, fitness, social skills, food preparation, personal grooming, transport and community participation.<br>",
+        "locationId": 3
+    },
+    {
+        "id": 4,
+        "name": "Center for Clinical Psychotherapy",
+        "description": "The organisation works on making pathways for disabled young people to become increasingly independent. Central to Ariel training and vocation units is the provision of \"real further education, skills-based training and vocational opportunities as part of a structured pathway to social and economic participation\". Through the vocational pathways Compass provides, people with a disability have successfully been placed into appropriate and rewarding work. The Compass Institute Inc. is involved in setting up social enterprises as vocational pathways for its trainees.",
+        "goals": "The goal of the Center is to provide real life skills with a focus on personal development and independent living. This includes literacy, numeracy, communication, fitness, social skills, food preparation, personal grooming, transport and community participation.<br>",
+        "locationId": 4
+    },
+    {
+        "id": 5,
+        "name": "Groups for people with disability",
+        "description": "The organisation works on making pathways for disabled young people to become increasingly independent. Central to Ariel training and vocation units is the provision of \"real further education, skills-based training and vocational opportunities as part of a structured pathway to social and economic participation\". Through the vocational pathways Compass provides, people with a disability have successfully been placed into appropriate and rewarding work. The Compass Institute Inc. is involved in setting up social enterprises as vocational pathways for its trainees.",
+        "goals": "The goal of the Center is to provide real life skills with a focus on personal development and independent living. This includes literacy, numeracy, communication, fitness, social skills, food preparation, personal grooming, transport and community participation.<br>",
+        "locationId": 5
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Andrea",
+        "surname": "Cox",
+        "profession": "ceo",
+        "tel": 9875919075,
+        "mail": "andrea.cox@panola.edu",
+        "cv": "Provided reminders for medications and appointments.\nAssisted clients in daily personal care, toileting, clothing care, household duties and transportation.\nActed as companion and assistant in grocery shopping, errands, banking, bill paying and community engagement.\nFollowed programs of the physical therapist to ensure physical fitness and wellness.\nSourced educational, recreational and social activities to provide entertainment and socialization.\nAided during mealtimes, in cooking and food preparation.\nWorked with family, health care providers, therapists and social workers to ensure all necessary client needs were met.\nAssisted physically disabled individuals with transfers to and from bed, in and out of vehicles, through public places, in and out of bathroom activities and during other motions.\nEnsured a positive routine was established and maintained toward optimum mental and physical wellness.",
+        "picture": "/assets/img/staff/p6.png",
+        "serviceId": null
+    },
+    {
+        "id": 2,
+        "name": "Tracy",
+        "surname": "Schwartz",
+        "profession": "medico",
+        "tel": 9875919075,
+        "mail": "tracy.schwartz@panola.edu",
+        "cv": "Provided reminders for medications and appointments.\nAssisted clients in daily personal care, toileting, clothing care, household duties and transportation.\nActed as companion and assistant in grocery shopping, errands, banking, bill paying and community engagement.\nFollowed programs of the physical therapist to ensure physical fitness and wellness.\nSourced educational, recreational and social activities to provide entertainment and socialization.\nAided during mealtimes, in cooking and food preparation.\nWorked with family, health care providers, therapists and social workers to ensure all necessary client needs were met.\nAssisted physically disabled individuals with transfers to and from bed, in and out of vehicles, through public places, in and out of bathroom activities and during other motions.\nEnsured a positive routine was established and maintained toward optimum mental and physical wellness.",
+        "picture": "/assets/img/staff/p1.png",
+        "serviceId": 1
+    },
+    {
+        "id": 3,
+        "name": "Mary",
+        "surname": "Escobar",
+        "profession": "medico",
+        "tel": 9875919075,
+        "mail": "mary.escobar@panola.edu",
+        "cv": "Provided reminders for medications and appointments.\nAssisted clients in daily personal care, toileting, clothing care, household duties and transportation.\nActed as companion and assistant in grocery shopping, errands, banking, bill paying and community engagement.\nFollowed programs of the physical therapist to ensure physical fitness and wellness.\nSourced educational, recreational and social activities to provide entertainment and socialization.\nAided during mealtimes, in cooking and food preparation.\nWorked with family, health care providers, therapists and social workers to ensure all necessary client needs were met.\nAssisted physically disabled individuals with transfers to and from bed, in and out of vehicles, through public places, in and out of bathroom activities and during other motions.\nEnsured a positive routine was established and maintained toward optimum mental and physical wellness.",
+        "picture": "/assets/img/staff/p3.png",
+        "serviceId": 2
+    },
+    {
+        "id": 4,
+        "name": "Hannah",
+        "surname": "Griffith",
+        "profession": "medico",
+        "tel": 9875919075,
+        "mail": "hannah.griffith@panole.edu",
+        "cv": "Provided reminders for medications and appointments.\nAssisted clients in daily personal care, toileting, clothing care, household duties and transportation.\nActed as companion and assistant in grocery shopping, errands, banking, bill paying and community engagement.\nFollowed programs of the physical therapist to ensure physical fitness and wellness.\nSourced educational, recreational and social activities to provide entertainment and socialization.\nAided during mealtimes, in cooking and food preparation.\nWorked with family, health care providers, therapists and social workers to ensure all necessary client needs were met.\nAssisted physically disabled individuals with transfers to and from bed, in and out of vehicles, through public places, in and out of bathroom activities and during other motions.\nEnsured a positive routine was established and maintained toward optimum mental and physical wellness.",
+        "picture": "/assets/img/staff/p4.png",
+        "serviceId": 3
+    },
+    {
+        "id": 5,
+        "name": "Jordan",
+        "surname": "Bell",
+        "profession": "medico",
+        "tel": 9875919075,
+        "mail": "jordan.bell@panola.edu",
+        "cv": "Provided reminders for medications and appointments.\nAssisted clients in daily personal care, toileting, clothing care, household duties and transportation.\nActed as companion and assistant in grocery shopping, errands, banking, bill paying and community engagement.\nFollowed programs of the physical therapist to ensure physical fitness and wellness.\nSourced educational, recreational and social activities to provide entertainment and socialization.\nAided during mealtimes, in cooking and food preparation.\nWorked with family, health care providers, therapists and social workers to ensure all necessary client needs were met.\nAssisted physically disabled individuals with transfers to and from bed, in and out of vehicles, through public places, in and out of bathroom activities and during other motions.\nEnsured a positive routine was established and maintained toward optimum mental and physical wellness.",
+        "picture": "/assets/img/staff/p5.png",
+        "serviceId": 4
+    },
+    {
+        "id": 6,
+        "name": "Phoenix",
+        "surname": "Wright",
+        "profession": "medico",
+        "tel": 9875919075,
+        "mail": "phoenix.wright@panola.edu",
+        "cv": "Provided reminders for medications and appointments.Assisted clients in daily personal care, toileting, clothing care, household duties and transportation.\nActed as companion and assistant in grocery shopping, errands, banking, bill paying and community engagement.\nFollowed programs of the physical therapist to ensure physical fitness and wellness.\nSourced educational, recreational and social activities to provide entertainment and socialization.\nAided during mealtimes, in cooking and food preparation.\nWorked with family, health care providers, therapists and social workers to ensure all necessary client needs were met.\nAssisted physically disabled individuals with transfers to and from bed, in and out of vehicles, through public places, in and out of bathroom activities and during other motions.\nEnsured a positive routine was established and maintained toward optimum mental and physical wellness.",
+        "picture": "/assets/img/staff/p2.png",
+        "serviceId": 5
+    }
+]

@@ -1,0 +1,69 @@
+@media (max-width: 991.98px){
+
+    #nav1{
+        padding-right: 0;
+        padding-left: 0;
+        padding-bottom: 2px;
+    }
+
+    .navbar-brand {
+        margin-left: 16px;
+        margin-bottom: 8px;
+    }
+
+    .navbar-toggler{
+        margin-right: 16px;
+    }
+
+    #navbarNav{
+        background-color: #fcfcff;
+        padding-left: 16px;
+    }
+
+    .locations {
+        padding: 0;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 767.98px){
+   
+
+    .even-image , .odd-image  {
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    p, h5 {
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+
+    #footer {
+        display: block;        
+    }
+
+    #footer,span {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (min-width:768px) {
+    #nascosto {
+        display: none;
+    }
+}
+
+@media (min-width: 992px) {
+    .people {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    
+    .locations {
+        padding-left: 29.4px;
+        padding-right: 29.4px;
+    }
+}

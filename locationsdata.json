@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Ariel Care Center Milano",
+		"city": "Milano",
+        "address": "Piazza Enrico Bottini 15",
+        "information": "<b>Open:</b></br> From Monday to Friday 8 am - 10 pm </br><b>Closed:</b> </br> Saturday and Sunday",
+        "tel": "02 62275604",
+        "picture": "/assets/img/locations/acc-milano.jpg",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.2719380536846!2d9.234500215558118!3d45.484468379101195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6f877ee0afd%3A0xf0e3e40964dd0b22!2sPiazza+Enrico+Bottini%2C+15%2C+20133+Milano+MI!5e0!3m2!1sit!2sit!4v1525681108873"
+    },
+    {
+        "id": 2,
+        "name": "Ariel Care Center Bergamo",
+		"city": "Bergamo",
+        "address": "Viale Giulio Cesare 20",
+        "information": "<b>Open:</b> </br> From Monday to Friday 8 am - 10 pm </br><b>Closed:</b> </br> Saturday and Sunday",
+        "tel": "035 8739801",
+        "picture": "/assets/img/locations/acc-bergamo.jpg",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2786.0520624810297!2d9.680420215980009!3d45.70999237910459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478151267e6b4e39%3A0x34682d636a46f2b7!2sViale+Giulio+Cesare%2C+20%2C+24123+Bergamo+BG!5e0!3m2!1sit!2sit!4v1525681228424"
+    },
+    {
+        "id": 3,
+        "name": "Ariel Care Center Pavia",
+		"city": "Pavia",
+        "address": "Viale Giacomo Matteotti 43",
+        "information": "<b>Open:</b></br> From Monday to Friday 8 am - 10 pm </br><b>Closed:</b> </br> Saturday and Sunday",
+        "tel": "0382 748073",
+        "picture": "/assets/img/locations/acc-pavia.jpg",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2811.8611209029236!2d9.152278315966418!3d45.18990747909868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4787264e179bbc49%3A0xb664a15fad06705b!2sViale+Giacomo+Matteotti%2C+43%2C+27100+Pavia+PV!5e0!3m2!1sit!2sit!4v1525681305795"
+    },
+    {
+        "id": 4,
+        "name": "Ariel Care Center Brescia",
+		"city": "Brescia",
+        "address": "Via XXV Aprile 23",
+        "information": "<b>Open:</b></br> From Monday to Friday 8 am - 10 pm </br><b>Closed:</b> </br> Saturday and Sunday",
+        "tel": "030 4567810",
+        "picture": "/assets/img/locations/acc-brescia.jpg",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2794.9240514373914!2d10.225655515975301!3d45.531733879101694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47817611cf3f22ef%3A0x5e11a0b51412a6e2!2sVia+XXV+Aprile%2C+23%2C+25121+Brescia+BS!5e0!3m2!1sit!2sit!4v1525681362975"
+    },
+    {
+        "id": 5,
+        "name": "Ariel Care Center Como",
+		"city": "Como",
+        "address": "Via Milano 56",
+        "information": "<b>Open:</b></br> From Monday to Friday 8 am - 10 pm </br><b>Closed:</b> </br> Saturday and Sunday",
+        "tel": "031 2034150",
+        "picture": "/assets/img/locations/acc-como.jpg",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2781.330206999734!2d9.083393515568895!3d45.804644879106455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47869c342aee6083%3A0x70db623f145f76d!2sVia+Milano%2C+56%2C+22100+Como+CO!5e0!3m2!1sit!2sit!4v1525680651195"
+    }
+]

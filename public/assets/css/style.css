@@ -1,0 +1,231 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    padding-top: 62px;
+}
+
+/*
+    HEADER
+*/
+
+#nav1 {
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2), 0 0 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+#navbarNav {
+    font-size: 1.045em;
+}
+
+#personalized .nav-link, .dropdown-item {
+    color: black;
+    opacity: 0.5;
+    font-weight: bold;
+}
+
+.dropdown-item:hover, .dropdown-item:active, .dropdown-item:focus {
+    background-color: white;
+}
+
+
+#personalized .nav-link:hover, .dropdown-item:hover {
+    color: black;
+    opacity: 0.8;
+}
+
+#personalized li:nth-child(5), #personalized li:nth-child(6), #personalized li:nth-child(9), .dropdown-menu .disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+/*
+    CAROUSEL
+*/
+
+.carousel-item > img {
+    height: 500px;
+}
+
+/*
+    CONTAINER
+*/
+
+.container {
+    min-height: 100%;
+    background-color: #f8f8fa;
+    padding-top: 50px;
+}
+
+.media {
+    display: inline-block;
+    background-color: #fcfcff;
+}
+
+.odd-image {
+    float: left;
+    margin: 8px;
+}
+
+.even-image {
+    float: right;
+    margin: 8px;
+}
+
+p {
+    margin-bottom: 8px;
+}
+
+.odd-p {
+    margin-right: 8px;
+}
+
+.even-p {
+    margin-left: 8px;
+}
+
+#breadcrumb {
+    margin-top: -35px;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#subs > li {
+    /*
+        hide subs li on all_services page
+    */
+    display: none;
+}
+
+#subs1 {
+    display: none;
+}
+
+/*
+    ContactUs
+*/
+.volunteer {
+    padding: 35px;
+}
+
+.volunteer p {
+    display: none;
+}
+
+i {
+    float: right;
+}
+
+.form-group {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/*
+    FOOTER
+*/
+
+footer .nav-link {
+    padding: 0;
+}
+
+
+
+/*
+    LOCATION
+*/
+.locationsPic {
+    margin-bottom: 20px;
+    width:100%;
+    height:250px;
+}
+
+#map {
+    margin-top: 40.727px;
+    margin-bottom: 20px;
+}
+
+.fa-angle-double-down {
+    color: #6262ff;
+    display: inline;
+}
+
+
+
+/*
+    ALL LOCATIONS
+*/
+.location {
+    margin-bottom: 25px;
+    
+}
+
+.location a {
+    width: 60%;
+}
+
+.location img {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.location p {
+    margin: 0 65.6px 0 65.6px;
+}
+
+.location .address {
+    margin: -5px 0 5px 0;
+    font-size: 90%;
+    opacity: 0.9;
+}
+
+
+
+
+/*
+    PERSON
+*/
+#picture {
+    margin-bottom: 20px;
+}
+
+
+
+/*
+    ALL PEOPLE
+*/
+.person {
+    margin-bottom: 25px;
+}
+
+.person a {
+    width: 60%;
+    border-radius: 100%;
+}
+
+.person img {
+    width: 100%;
+    opacity: 0.8;
+    border: 0px;
+    border-radius: 100%;
+}
+
+.person img:hover{
+    opacity: 1;
+}
+
+.person .profession {
+    margin-top: -10px;
+    font-size: 90%;
+    opacity: 0.9;
+}
